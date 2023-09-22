@@ -2,5 +2,6 @@
 
 ## Here is the Tableau Dashboard for the Inside political Donation History of Sports Owners
 
-![image](https://github.com/Vasavi-github/Tableau/assets/107137479/66700e85-4a94-4e4d-be64-db322ce7c5f7)
+![Inside the Political Donation History of Sports Owners](https://github.com/Vasavi-github/Tableau_Dashboards/assets/107137479/60f2d9dc-6fbb-449c-aeb0-644e50af2444)
+
 
