@@ -1,7 +1,3 @@
-# Tableau
-
-
-
 ### American professional sports owners have contributed nearly $47 million in federal elections since 2015. Source: https://fivethirtyeight.com/features/inside-the-political-donation-history-of-wealthy-sports-owners/
 
 Analysis:
