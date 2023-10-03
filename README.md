@@ -1,4 +1,7 @@
-### American professional sports owners have contributed nearly $47 million in federal elections since 2015. Source: https://fivethirtyeight.com/features/inside-the-political-donation-history-of-wealthy-sports-owners/
+# Analysis of the Inside Political Donation History of Sports Owners
+
+### American professional sports owners have contributed nearly $47 million in federal elections since 2015.
+##### Source: https://fivethirtyeight.com/features/inside-the-political-donation-history-of-wealthy-sports-owners/
 
 Analysis:
 According to a joint study by ESPN and FiveThirtyEight, owners of American professional sports teams have collectively donated approximately $47 million to federal elections since 2015. Of this amount, they have allocated $10 million towards Republican initiatives and $1.9 million towards Democratic causes during the ongoing 2020 election season.
@@ -10,7 +13,11 @@ Significantly more money goes to Republicans:
 
 SOURCES: FEDERAL ELECTION COMMISSION, OPENSECRETS
 
-## Here is the Tableau Dashboard Anlysis for the Inside political Donation History of Sports Owners
+# Tableau Dashboard Analysis for the Inside Political Donation History of Sports Owners
+
+
 ![Inside the Political Donation History of Sports Owners](https://github.com/Vasavi-github/Tableau_Dashboards/assets/107137479/60f2d9dc-6fbb-449c-aeb0-644e50af2444)
+
+
 
 
